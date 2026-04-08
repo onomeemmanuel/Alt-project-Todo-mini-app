@@ -4,7 +4,7 @@
   "description": "Todo app with auth and MongoDB",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node  app.js",
     "test": "jest --runInBand"
   },
   "keywords": [],
