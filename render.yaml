@@ -2,5 +2,5 @@ services:
   - type: web
     name: todo-app
     env: node
-    startCommand: npm start
-    buildCommand: npm install
+    buildCommand: "npm install"
+    startCommand: "npm start"
